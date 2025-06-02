@@ -17,7 +17,7 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 ## Finance Report :
 Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/tomclancy99/Excel-Sales-Analytics/blob/main/reports/profit%20%26%20loss%20by%20years.pdf) & Months
 
 2. Create Profit and Loss (P&L) reports by Markets
 
